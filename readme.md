@@ -1,7 +1,7 @@
 <p align="center">
   <img src="public/images/brand.png" height="128">
   <h2 align="center"><a href="https://roadmap.sh">roadmap.sh</a></h2>
-  <p align="center">Community driven roadmaps, articles and resources for developers<p>
+  <p align="center">社区驱动的开发人员学习路线图，基于路线图整理相关文章和资源<p>
   <p align="center">
     <a href="https://roadmap.sh/roadmaps">
     	<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
