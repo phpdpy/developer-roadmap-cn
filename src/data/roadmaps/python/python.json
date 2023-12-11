@@ -1106,11 +1106,11 @@
                   "zOrder": "1",
                   "measuredW": "123",
                   "measuredH": "24",
-                  "x": "69",
+                  "x": "88",
                   "y": "10",
                   "properties": {
                     "size": "16",
-                    "text": "Learn the Basics"
+                    "text": "基础知识"
                   }
                 }
               ]
@@ -1158,7 +1158,7 @@
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "基础语法(Basic Syntax)"
+                    "text": "基础语法"
                   }
                 }
               ]
@@ -1202,11 +1202,11 @@
                   "w": "188",
                   "measuredW": "183",
                   "measuredH": "24",
-                  "x": "16",
+                  "x": "40",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Variables and Data Types"
+                    "text": "变量和数据类型"
                   }
                 }
               ]
@@ -1249,11 +1249,11 @@
                   "zOrder": "1",
                   "measuredW": "221",
                   "measuredH": "24",
-                  "x": "17",
+                  "x": "40",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Lists, Tuples, Sets, Dictionaries"
+                    "text": "列表、元组、集合、字典"
                   }
                 }
               ]
@@ -1301,13 +1301,13 @@
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Conditionals"
+                    "text": "条件语句"
                   }
                 }
               ]
             }
           }
-        },
+        },  
         {
           "ID": "7260",
           "typeID": "__group__",
@@ -1344,11 +1344,11 @@
                   "zOrder": "1",
                   "measuredW": "181",
                   "measuredH": "24",
-                  "x": "37",
+                  "x": "56",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Type Casting, Exceptions"
+                    "text": "类型转换，异常处理"
                   }
                 }
               ]
@@ -1392,10 +1392,10 @@
                   "w": "200",
                   "measuredW": "198",
                   "measuredH": "24",
-                  "x": "28",
+                  "x": "72",
                   "y": "9",
                   "properties": {
-                    "text": "Functions, Builtin Functions",
+                    "text": "函数，内置函数",
                     "size": "16"
                   }
                 }
