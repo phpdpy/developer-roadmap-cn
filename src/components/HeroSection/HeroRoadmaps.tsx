@@ -33,7 +33,7 @@ function HeroRoadmap(props: ProgressRoadmapProps) {
   return (
     <a
       href={url}
-      className="relative flex flex-col overflow-hidden rounded-md border border-slate-800 bg-slate-900 p-3 text-sm text-slate-400 hover:border-slate-600 hover:text-slate-300"
+      className="relative flex flex-col overflow-hidden rounded-md border border-slate-800 bg-purple-800 p-3 text-sm text-slate-400 hover:border-slate-600 hover:text-slate-300"
     >
       <span className="relative z-20">{resourceTitle}</span>
 
