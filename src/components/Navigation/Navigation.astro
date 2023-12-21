@@ -2,7 +2,7 @@
 import Icon from '../AstroIcon.astro';
 import { AccountDropdown } from './AccountDropdown';
 ---
-<div class='bg-purple-800 py-5 text-white sm:py-8'>
+<div class='bg-blue-950 py-5 text-white sm:py-8'>
   <nav class='container flex items-center justify-between'>
 <!--
     <a
@@ -61,7 +61,7 @@ import { AccountDropdown } from './AccountDropdown';
     </ul>
     <ul class='hidden h-8 w-[172px] items-center justify-end gap-5 sm:flex'>
       <li data-guest-required class='hidden'>
-        <a href='/login' class='text-gray-400 hover:text-white'>登录</a>
+        <a href='' class='text-gray-400 hover:text-white'>登录</a>
       </li>
       <li>
         <AccountDropdown client:only='react' />
@@ -69,7 +69,7 @@ import { AccountDropdown } from './AccountDropdown';
         <a
           data-guest-required
           class='flex hidden h-8 w-28 cursor-pointer items-center justify-center rounded-full bg-gradient-to-r from-blue-500 to-blue-700 px-4 py-2 text-sm font-medium text-white hover:from-blue-500 hover:to-blue-600'
-          href='/signup'
+          href=''
         >
           <span>注册</span>
         </a>
@@ -85,9 +85,9 @@ import { AccountDropdown } from './AccountDropdown';
       <Icon icon='hamburger' />
     </button>
 
-    <!-- Mobile Navigation bg-purple-800Items -->
+    <!-- Mobile Navigation bg-blue-950Items -->
     <div
-      class='fixed bottom-0 left-0 right-0 top-0 z-40 flex hidden items-center bg-purple-800'
+      class='fixed bottom-0 left-0 right-0 top-0 z-40 flex hidden items-center bg-blue-950'
       data-mobile-nav
     >
       <button

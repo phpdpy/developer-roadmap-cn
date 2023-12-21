@@ -135,7 +135,7 @@ export function TeamDemo() {
                     localStorage.setItem('authRedirect', '/team/new');
                   }}
                   href={isAuthenticated ? '/team/new' : '/signup'}
-                  className="inline-flex items-center justify-center rounded-lg border border-transparent bg-purple-600 px-5 py-2 text-base font-medium text-white hover:bg-purple-800"
+                  className="inline-flex items-center justify-center rounded-lg border border-transparent bg-purple-600 px-5 py-2 text-base font-medium text-white hover:bg-blue-950"
                 >
                   Create your Team
                 </a>

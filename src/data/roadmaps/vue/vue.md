@@ -55,5 +55,5 @@ sitemap:
 tags:
   - 'roadmap'
   - 'main-sitemap'
-  - 'skill-roadmap'
+  - 'skill-roadmap-disable'
 ---

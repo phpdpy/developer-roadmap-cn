@@ -75,7 +75,7 @@ const hasTnsBanner = !!tnsBannerLink;
     <div class='flex justify-between gap-2 sm:gap-0'>
       <div class='flex gap-1 sm:gap-2'>
         {
-          !hasSearch && (
+          hasSearch && (
             <>
               <a
                 href='/roadmaps'
@@ -145,7 +145,7 @@ const hasTnsBanner = !!tnsBannerLink;
         />
 
         {
-          isRoadmapReady && (
+          false && (
             <a
               href={`https://github.com/kamranahmedse/developer-roadmap/issues/new?title=[Suggestion] ${title}`}
               target='_blank'
@@ -180,10 +180,10 @@ const hasTnsBanner = !!tnsBannerLink;
     tnsBannerLink && (
       <div class='absolute left-0 right-0 top-0 hidden border-b border-b-gray-200 px-2 py-1.5 sm:block'>
         <p class='py-0.5 text-center text-sm'>
-          <span class='badge mr-1'>Partner</span>
-          Get the latest {roadmapTitle} news from our sister site{' '}
-          <a href={tnsBannerLink} target='_blank' class='font-medium underline'>
-            TheNewStack.io
+          <span class='badge mr-1'>了解更多</span>
+          Get the latest {roadmapTitle} news from our site{' '}
+          <a href='' target='_blank' class='font-medium underline'>
+            
           </a>
         </p>
       </div>

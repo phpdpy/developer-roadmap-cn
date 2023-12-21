@@ -38,7 +38,7 @@ sitemap:
 tags:
   - 'roadmap'
   - 'main-sitemap'
-  - 'role-roadmap'
+  - 'role-roadmap-disable'
 ---
 The intent of this guide is to give you an idea about the Android development landscape and to help guide your learning if you are confused. Before we start, please note that the roadmap is opinionated, and you might have different opinions than those of the author. Having said that, [we would love to hear your opinions](https://github.com/kamranahmedse/developer-roadmap/issues/new) and incorporate them in the roadmap if suitable.
 

@@ -51,7 +51,7 @@ export type QuestionGroupType = RawQuestionGroupFileType & {
 export async function getAllQuestionGroups(): Promise<QuestionGroupType[]> {
   const questionGroupFilesMap =
     await import.meta.glob<RawQuestionGroupFileType>(
-      `/src/data/question-groups/*/*.md`,
+      `/src/data/question-groups/*/*-enable.md`,
       {
         eager: true,
       }

@@ -12,16 +12,16 @@ type CreateRoadmapButtonProps = {
 };
 
 export function CreateRoadmapButton(props: CreateRoadmapButtonProps) {
-  const { teamId, className, text = 'Create your own Roadmap' } = props;
+  const { teamId, className, text = '敬请期待' } = props;
 
   const [isCreatingRoadmap, setIsCreatingRoadmap] = useState(false);
 
   function toggleCreateRoadmapHandler() {
-    if (!isLoggedIn()) {
-      return showLoginPopup();
-    }
+    // if (!isLoggedIn()) {
+    //   return showLoginPopup();
+    // }
 
-    setIsCreatingRoadmap(true);
+    // setIsCreatingRoadmap(true);
   }
 
   return (

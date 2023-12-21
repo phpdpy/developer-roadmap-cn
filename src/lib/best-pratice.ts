@@ -61,7 +61,7 @@ export async function getBestPracticeIds() {
  */
 export async function getAllBestPractices(): Promise<BestPracticeFileType[]> {
   const bestPracticeFilesMap = await import.meta.glob<BestPracticeFileType>(
-    '/src/data/best-practices/*/*.md',
+    '/src/data/best-practices/*/*-enable.md',
     {
       eager: true,
     }

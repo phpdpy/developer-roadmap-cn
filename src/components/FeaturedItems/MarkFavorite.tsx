@@ -97,7 +97,6 @@ export function MarkFavorite({
   return (
     <button
       aria-label={isFavorite ? 'Remove from favorites' : 'Add to favorites'}
-      onClick={toggleFavoriteHandler}
       tabIndex={-1}
       className={`${isFavorite ? '' : 'opacity-30 hover:opacity-100'} ${
         className || 'absolute right-1.5 top-1.5 z-30 focus:outline-0'

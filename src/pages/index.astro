@@ -20,15 +20,15 @@ const videos = await getAllVideos();
 ---
 
 <BaseLayout
-  title='Developer Roadmaps - roadmap.sh'
-  description={'Community driven roadmaps, articles and guides for developers to grow in their career.'}
+  title='成长路线'
+  description={'开发人员在职业生涯中成长的文章和指南。'}
   permalink={'/'}
 >
-  <div class='bg-gradient-to-b from-slate-900 to-black'>
+  <div class='bg-gradient-to-b from-blue-950 to-black'>
     <HeroSection />
 
     <FeaturedItems
-      heading='Role based Roadmaps'
+      heading='职业方向路线图'
       featuredItems={roleRoadmaps.map((roadmapItem) => ({
         text: roadmapItem.frontmatter.briefTitle,
         url: `/${roadmapItem.id}`,
@@ -39,7 +39,7 @@ const videos = await getAllVideos();
     />
 
     <FeaturedItems
-      heading='Skill based Roadmaps'
+      heading='技能方向路线图'
       featuredItems={skillRoadmaps.map((roadmapItem) => ({
         text:
           roadmapItem.frontmatter.briefTitle === 'Go'
@@ -53,28 +53,30 @@ const videos = await getAllVideos();
     />
 
     <FeaturedItems
-      heading='Best Practices'
+      heading='最佳实践'
       featuredItems={bestPractices.map((bestPractice) => ({
         text: bestPractice.frontmatter.briefTitle,
         url: `/best-practices/${bestPractice.id}`,
         isNew: bestPractice.frontmatter.isNew,
         isUpcoming: bestPractice.frontmatter.isUpcoming,
       }))}
+      showCreateRoadmap={true}
     />
 
     <FeaturedItems
-      heading='Questions'
+      heading='问题'
       allowBookmark={false}
       featuredItems={questionGroups.map((questionGroup) => ({
         text: questionGroup.frontmatter.briefTitle,
         url: `/questions/${questionGroup.id}`,
         isNew: questionGroup.frontmatter.isNew,
       }))}
+      showCreateRoadmap={true}
     />
 
-    <div class='grid grid-cols-1 gap-7 bg-gray-50 py-7 sm:gap-16 sm:py-16'>
+    <!-- <div class='grid grid-cols-1 gap-7 bg-gray-50 py-7 sm:gap-16 sm:py-16'>
       <FeaturedGuides heading='Guides' guides={guides.slice(0, 7)} />
       <FeaturedVideos heading='Videos' videos={videos.slice(0, 7)} />
-    </div>
+    </div> -->
   </div>
 </BaseLayout>
