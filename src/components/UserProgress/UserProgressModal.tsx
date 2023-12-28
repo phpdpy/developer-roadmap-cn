@@ -60,7 +60,7 @@ export function UserProgressModal(props: ProgressMapProps) {
 
   let resourceJsonUrl = import.meta.env.DEV
     ? 'http://localhost:3000'
-    : 'https://roadmap.sh';
+    : 'http://road-maps.cn';
   if (resourceType === 'roadmap') {
     resourceJsonUrl += `/${resourceId}.json`;
   } else {

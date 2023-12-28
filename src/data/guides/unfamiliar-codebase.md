@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Unfamiliar Codebase - roadmap.sh'
+  title: 'Unfamiliar Codebase - road-maps.cn'
   description: 'Tips on getting familiar with an unfamiliar codebase'
 isNew: false
 type: 'visual'

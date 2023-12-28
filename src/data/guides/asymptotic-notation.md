@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Asymptotic Notation - roadmap.sh'
+  title: 'Asymptotic Notation - road-maps.cn'
   description: 'Learn the basics of measuring the time and space complexity of algorithms'
 isNew: false
 type: 'visual'

@@ -14,7 +14,7 @@ dimensions:
 schema:
   headline: 'Computer Science Roadmap'
   description: 'Computer Science roadmap for the self-taught developers and bootcamp grads. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
-  imageUrl: 'https://roadmap.sh/roadmaps/computer-science.png'
+  imageUrl: 'http://road-maps.cn/roadmaps/computer-science.png'
   datePublished: '2023-01-05'
   dateModified: '2023-01-20'
 seo:

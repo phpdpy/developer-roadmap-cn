@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Random Numbers: Are they? - roadmap.sh'
+  title: 'Random Numbers: Are they? - road-maps.cn'
   description: 'Learn how they are generated and why they may not be truly random.'
 isNew: false
 type: 'visual'

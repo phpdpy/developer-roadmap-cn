@@ -10365,7 +10365,7 @@
           "x": "706",
           "y": "2709",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/software-design-architecture"
+            "controlName": "ext_link:road-maps.cn/software-design-architecture"
           },
           "children": {
             "controls": {
@@ -14051,7 +14051,7 @@
           "x": "1091",
           "y": "3959",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/devops"
+            "controlName": "ext_link:road-maps.cn/devops"
           },
           "children": {
             "controls": {
@@ -14145,7 +14145,7 @@
           "x": "1498",
           "y": "2818",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/best-practices/api-security"
+            "controlName": "ext_link:road-maps.cn/best-practices/api-security"
           },
           "children": {
             "controls": {
@@ -14453,7 +14453,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:road-maps.cn"
                   },
                   "children": {
                     "controls": {
@@ -14484,7 +14484,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "roadmap.sh"
+                            "text": "road-maps.cn"
                           }
                         },
                         {

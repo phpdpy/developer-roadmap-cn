@@ -94,7 +94,7 @@ export function ShareFriendList(props: ShareFriendListProps) {
   );
 
   const isDev = import.meta.env.DEV;
-  const baseWebUrl = isDev ? 'http://localhost:3000' : 'https://roadmap.sh';
+  const baseWebUrl = isDev ? 'http://localhost:3000' : 'http://road-maps.cn';
   const befriendUrl = `${baseWebUrl}/befriend?u=${userId}`;
 
   return (

@@ -57,7 +57,7 @@ function addPageSponsor({
   adDescription,
 }) {
   const urlPart = pageUrl
-    .replace('https://roadmap.sh/', '')
+    .replace('http://road-maps.cn/', '')
     .replace(/\?.+?$/, '');
 
   const parentDir = urlPart.startsWith('best-practices/')

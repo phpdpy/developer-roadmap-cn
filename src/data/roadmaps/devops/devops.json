@@ -4608,7 +4608,7 @@
           "x": "476",
           "y": "1269",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/docker"
+            "controlName": "ext_link:road-maps.cn/docker"
           },
           "children": {
             "controls": {
@@ -8662,7 +8662,7 @@
           "x": "780",
           "y": "2670",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/kubernetes"
+            "controlName": "ext_link:road-maps.cn/kubernetes"
           },
           "children": {
             "controls": {
@@ -14062,7 +14062,7 @@
                   "x": "28",
                   "y": "73",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/kubernetes"
+                    "controlName": "ext_link:road-maps.cn/kubernetes"
                   },
                   "children": {
                     "controls": {
@@ -14144,7 +14144,7 @@
                   "x": "28",
                   "y": "109",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/docker"
+                    "controlName": "ext_link:road-maps.cn/docker"
                   },
                   "children": {
                     "controls": {
@@ -14226,7 +14226,7 @@
                   "x": "28",
                   "y": "145",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/python"
+                    "controlName": "ext_link:road-maps.cn/python"
                   },
                   "children": {
                     "controls": {
@@ -14308,7 +14308,7 @@
                   "x": "28",
                   "y": "181",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/backend"
+                    "controlName": "ext_link:road-maps.cn/backend"
                   },
                   "children": {
                     "controls": {
@@ -14390,7 +14390,7 @@
                   "x": "28",
                   "y": "218",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/best-practices/aws"
+                    "controlName": "ext_link:road-maps.cn/best-practices/aws"
                   },
                   "children": {
                     "controls": {
@@ -14526,7 +14526,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:road-maps.cn"
                   },
                   "children": {
                     "controls": {
@@ -14570,7 +14570,7 @@
                                   "properties": {
                                     "color": "16777215",
                                     "size": "20",
-                                    "text": "roadmap.sh"
+                                    "text": "road-maps.cn"
                                   }
                                 },
                                 {

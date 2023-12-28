@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Design Patterns for Humans - roadmap.sh'
+  title: 'Design Patterns for Humans - road-maps.cn'
   description: 'A language agnostic, ultra-simplified explanation to design patterns'
 isNew: false
 type: 'textual'

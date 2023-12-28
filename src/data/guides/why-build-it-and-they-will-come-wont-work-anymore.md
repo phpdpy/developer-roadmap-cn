@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/spekulatius1984'
   imageUrl: '/authors/spekulatius.jpg'
 seo:
-  title: 'Build it and they will come? - roadmap.sh'
+  title: 'Build it and they will come? - road-maps.cn'
   description: 'Why “build it and they will come” alone won’t work anymore'
 isNew: false
 type: 'textual'

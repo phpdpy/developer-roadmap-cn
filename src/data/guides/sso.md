@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'SSO — Single Sign On - roadmap.sh'
+  title: 'SSO — Single Sign On - road-maps.cn'
   description: 'Learn the basics of SAML and understand how does Single Sign On work.'
 isNew: false
 type: 'visual'

@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: '5 Free Resources to Master Language Models (LLMs) - roadmap.sh'
+  title: '5 Free Resources to Master Language Models (LLMs) - road-maps.cn'
   description: 'Looking to dive into the fascinating world of Language Models (LLMs)? Discover the top 5 free resources that will help you learn and excel in understanding LLMs. From comprehensive tutorials to interactive courses, this blog post provides you with the ultimate guide to sharpen your skills and unravel the potential of language models. Start your journey today and become a pro in LLMs without spending a dime!'
 isNew: false
 type: 'textual'
@@ -19,7 +19,7 @@ tags:
   - 'guide-sitemap'
 ---
 
-Language Models (LLMs) have revolutionized the field of Natural Language Processing (NLP), enabling machines to understand and generate human-like text. In my last visual guide, we discussed [what LLMs are and how they work on a high level](https://roadmap.sh/guides/introduction-to-llms). This guide is a curation of 5 free resources to help you further learn about LLMs and NLP. I have personally gone through these and would highly recommend these to anyone wanting to learn about LLMs.
+Language Models (LLMs) have revolutionized the field of Natural Language Processing (NLP), enabling machines to understand and generate human-like text. In my last visual guide, we discussed [what LLMs are and how they work on a high level](http://road-maps.cn/guides/introduction-to-llms). This guide is a curation of 5 free resources to help you further learn about LLMs and NLP. I have personally gone through these and would highly recommend these to anyone wanting to learn about LLMs.
 
 ## NLP Course by HuggingFace
 
@@ -51,4 +51,4 @@ LLMOps, a dedicated resource for operationalizing LLMs, offers insights into tes
 
 This is a course by a team of UC Berkeley PhD alumni that teaches best practices and tools for building LLM-powered apps. It covers the full stack from prompt engineering to user-centered design. They have a "[Full Stack Deep Learning](https://fullstackdeeplearning.com/course/)" course as well if you are interested in learning that.
 
-With these 5 free resources, you have a wealth of knowledge at your fingertips to master LLMs and advance your NLP skills. We have also been working on AI related content i.e. including roadmaps and best practices on [roadmap.sh](https://roadmap.sh) so stay tuned for that as well. Happy learning!
+With these 5 free resources, you have a wealth of knowledge at your fingertips to master LLMs and advance your NLP skills. We have also been working on AI related content i.e. including roadmaps and best practices on [road-maps.cn](http://road-maps.cn) so stay tuned for that as well. Happy learning!

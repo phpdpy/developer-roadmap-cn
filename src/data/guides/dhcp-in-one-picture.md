@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'DHCP in One Picture - roadmap.sh'
+  title: 'DHCP in One Picture - road-maps.cn'
   description: 'Here is what happens when a new device joins the network.'
 isNew: false
 type: 'visual'

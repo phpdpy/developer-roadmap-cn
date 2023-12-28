@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Session Based Authentication - roadmap.sh'
+  title: 'Session Based Authentication - road-maps.cn'
   description: 'Understand what is session based authentication and how it is implemented'
 isNew: false
 type: 'visual'

@@ -64,8 +64,8 @@ export function PersonalRoadmapList(props: PersonalRoadmapListType) {
       isDiscoverable={selectedRoadmap.isDiscoverable}
       description={selectedRoadmap.description}
       visibility={selectedRoadmap.visibility}
-      sharedFriendIds={selectedRoadmap.sharedFriendIds}
-      sharedTeamMemberIds={selectedRoadmap.sharedTeamMemberIds}
+      sharedFriendIds={selectedroad-maps.cnaredFriendIds}
+      sharedTeamMemberIds={selectedroad-maps.cnaredTeamMemberIds}
       roadmapId={selectedRoadmap._id!}
       onClose={() => setSelectedRoadmap(null)}
       onShareSettingsUpdate={(settings) => {
@@ -153,7 +153,7 @@ function CustomRoadmapItem(props: CustomRoadmapItemProps) {
         <span className="flex items-center text-xs leading-none text-gray-400">
           <VisibilityBadge
             visibility={roadmap.visibility!}
-            sharedFriendIds={roadmap.sharedFriendIds}
+            sharedFriendIds={road-maps.cnaredFriendIds}
           />
           <span className="mx-2 font-semibold">&middot;</span>
           <Shapes size={16} className="mr-1 inline-block h-4 w-4" />

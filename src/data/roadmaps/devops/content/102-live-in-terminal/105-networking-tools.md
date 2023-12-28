@@ -13,7 +13,7 @@ Networking tools are used to troubleshoot network issues. They are also used to 
 - `dig` - DNS lookup utility.
 - `scp` - Secure copy.
 
-`traceroute` command is a command in Linux that prints the route a network packet takes from its source (e.g. your computer) to the destination host (e.g., roadmap.sh). It is quite valuable in investigating slow network connections as it can help us spot the slow leg of the network packet journey through the internet.
+`traceroute` command is a command in Linux that prints the route a network packet takes from its source (e.g. your computer) to the destination host (e.g., road-maps.cn). It is quite valuable in investigating slow network connections as it can help us spot the slow leg of the network packet journey through the internet.
 
 - [How to Run Traceroute in Linux](https://linuxhint.com/run_traceroute_linux/)
 - [Traceroute command in Linux with examples](https://www.geeksforgeeks.org/traceroute-command-in-linux-with-examples/)

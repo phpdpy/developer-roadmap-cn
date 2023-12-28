@@ -15307,7 +15307,7 @@
           "x": "917",
           "y": "3499",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/backend"
+            "controlName": "ext_link:road-maps.cn/backend"
           },
           "children": {
             "controls": {
@@ -15929,7 +15929,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:road-maps.cn"
                   },
                   "children": {
                     "controls": {
@@ -15973,7 +15973,7 @@
                                   "properties": {
                                     "color": "16777215",
                                     "size": "20",
-                                    "text": "roadmap.sh"
+                                    "text": "road-maps.cn"
                                   }
                                 },
                                 {

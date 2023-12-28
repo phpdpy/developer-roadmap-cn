@@ -14,11 +14,11 @@ dimensions:
 schema:
   headline: 'Code Review Guide'
   description: 'Learn what to review when conducting Code Reviews with this interactive guide. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
-  imageUrl: 'https://roadmap.sh/roadmaps/code-review.png'
+  imageUrl: 'http://road-maps.cn/roadmaps/code-review.png'
   datePublished: '2023-06-03'
   dateModified: '2023-06-03'
 seo:
-  title: 'Code Review - roadmap.sh'
+  title: 'Code Review - road-maps.cn'
   description: 'Learn what to review when conducting code reviews. We also have questions to ask yourself under each node of the pyramid to guide you further.'
   keywords:
     - 'code review tutorial'

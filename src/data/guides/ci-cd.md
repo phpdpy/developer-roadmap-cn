@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'What is CI and CD? - roadmap.sh'
+  title: 'What is CI and CD? - road-maps.cn'
   description: 'Learn the basics of CI/CD and how to implement that with GitHub Actions.'
 isNew: false
 type: 'visual'

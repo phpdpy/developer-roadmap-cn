@@ -13,11 +13,11 @@ dimensions:
 schema:
   headline: 'Prompt Engineering Roadmap: Step by step guide to learning Prompt Engineering'
   description: 'Learn how to use Prompt Engineering with this interactive step by step guide. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
-  imageUrl: 'https://roadmap.sh/roadmaps/prompt-engineering.png'
+  imageUrl: 'http://road-maps.cn/roadmaps/prompt-engineering.png'
   datePublished: '2023-05-20'
   dateModified: '2023-05-20'
 seo:
-  title: 'Prompt Engineering Roadmap - roadmap.sh'
+  title: 'Prompt Engineering Roadmap - road-maps.cn'
   description: 'Step by step guide to learn Prompt Engineering. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
   keywords:
     - 'prompt engineering tutorial'

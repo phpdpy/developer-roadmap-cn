@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'HTTP Basic Authentication - roadmap.sh'
+  title: 'HTTP Basic Authentication - road-maps.cn'
   description: 'Learn what is HTTP Basic Authentication and how to implement it in Node.js'
 isNew: false
 type: 'textual'

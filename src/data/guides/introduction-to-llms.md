@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Introduction to LLMs - roadmap.sh'
+  title: 'Introduction to LLMs - road-maps.cn'
   description: 'What are LLMs, how does ChatGPT and other LLMs work?'
 isNew: false
 type: 'textual'

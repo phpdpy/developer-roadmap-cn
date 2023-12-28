@@ -87,7 +87,7 @@ export function CustomRoadmap() {
       return;
     }
 
-    document.title = `${response.title} - roadmap.sh`;
+    document.title = `${response.title} - road-maps.cn`;
 
     setRoadmap(response);
     currentRoadmap.set(response);

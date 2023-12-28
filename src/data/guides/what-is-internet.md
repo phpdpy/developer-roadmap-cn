@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'How does the internet work? - roadmap.sh'
+  title: 'How does the internet work? - road-maps.cn'
   description: 'Learn the basics of internet and everything involved with this short video series'
 isNew: false
 type: 'textual'

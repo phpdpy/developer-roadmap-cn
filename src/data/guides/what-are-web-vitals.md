@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'What are Web Vitals? - roadmap.sh'
+  title: 'What are Web Vitals? - road-maps.cn'
   description: 'Learn what are the core web vitals and how to measure them.'
 isNew: false
 type: 'visual'

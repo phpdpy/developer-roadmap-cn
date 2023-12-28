@@ -29,7 +29,7 @@ export function ProgressShareButton(props: ProgressShareButtonProps) {
   function handleCopyLink() {
     const isDev = import.meta.env.DEV;
     const newUrl = new URL(
-      isDev ? 'http://localhost:3000' : 'https://roadmap.sh'
+      isDev ? 'http://localhost:3000' : 'http://road-maps.cn'
     );
 
     if (resourceType === 'roadmap' && !isCustomResource) {

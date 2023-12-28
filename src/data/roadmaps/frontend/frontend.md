@@ -7,7 +7,7 @@ briefDescription: 'Step by step guide to becoming a frontend developer in 2023'
 title: 'Frontend Developer'
 description: 'Step by step guide to becoming a modern frontend developer in 2023'
 hasTopics: true
-tnsBannerLink: 'https://thenewstack.io?utm_source=roadmap.sh&utm_medium=Referral&utm_campaign=Alert'
+tnsBannerLink: 'https://thenewstack.io?utm_source=road-maps.cn&utm_medium=Referral&utm_campaign=Alert'
 question:
   title: 'What is Frontend Development?'
   description: |
@@ -21,7 +21,7 @@ dimensions:
 schema:
   headline: 'Frontend Developer Roadmap: What is Frontend Development?'
   description: 'Learn what Frontend Development is, what frontend developers do and how to become a modern frontend developer using our community-driven roadmap.'
-  imageUrl: 'https://roadmap.sh/roadmaps/frontend.png'
+  imageUrl: 'http://road-maps.cn/roadmaps/frontend.png'
   datePublished: '2023-01-05'
   dateModified: '2023-01-20'
 seo:

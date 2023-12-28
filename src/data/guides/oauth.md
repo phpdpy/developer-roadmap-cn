@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'OAuth — Open Authorization - roadmap.sh'
+  title: 'OAuth — Open Authorization - road-maps.cn'
   description: 'Learn and understand what is OAuth and how it works'
 isNew: false
 type: 'visual'

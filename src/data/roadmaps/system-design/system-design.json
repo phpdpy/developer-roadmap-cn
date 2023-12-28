@@ -9564,7 +9564,7 @@
           "x": "966",
           "y": "3551",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/backend"
+            "controlName": "ext_link:road-maps.cn/backend"
           },
           "children": {
             "controls": {
@@ -9611,7 +9611,7 @@
           "x": "604",
           "y": "3551",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/software-design-architecture"
+            "controlName": "ext_link:road-maps.cn/software-design-architecture"
           },
           "children": {
             "controls": {
@@ -10040,7 +10040,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:road-maps.cn"
                   },
                   "children": {
                     "controls": {
@@ -10071,7 +10071,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "roadmap.sh"
+                            "text": "road-maps.cn"
                           }
                         },
                         {

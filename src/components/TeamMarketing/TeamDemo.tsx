@@ -122,7 +122,7 @@ export function TeamDemo() {
             <div className="bg-gray-50 py-4 pl-3">
               <p className="mb-3">
                 Register your team now and help us shape the future of teams in
-                roadmap.sh!
+                road-maps.cn!
               </p>
               <div className="flex flex-row items-center gap-2">
                 <a

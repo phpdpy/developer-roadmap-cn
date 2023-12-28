@@ -1050,7 +1050,7 @@
           "x": "700",
           "y": "229",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/java"
+            "controlName": "ext_link:road-maps.cn/java"
           },
           "children": {
             "controls": {
@@ -3505,7 +3505,7 @@
           "x": "717",
           "y": "1551",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/backend"
+            "controlName": "ext_link:road-maps.cn/backend"
           },
           "children": {
             "controls": {
@@ -3552,7 +3552,7 @@
           "x": "522",
           "y": "1551",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/java"
+            "controlName": "ext_link:road-maps.cn/java"
           },
           "children": {
             "controls": {
@@ -3623,7 +3623,7 @@
                   "x": "35",
                   "y": "75",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/java"
+                    "controlName": "ext_link:road-maps.cn/java"
                   },
                   "children": {
                     "controls": {
@@ -3705,7 +3705,7 @@
                   "x": "35",
                   "y": "111",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/backend"
+                    "controlName": "ext_link:road-maps.cn/backend"
                   },
                   "children": {
                     "controls": {
@@ -3787,7 +3787,7 @@
                   "x": "35",
                   "y": "147",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/devops"
+                    "controlName": "ext_link:road-maps.cn/devops"
                   },
                   "children": {
                     "controls": {
@@ -3936,7 +3936,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:road-maps.cn"
                   },
                   "children": {
                     "controls": {
@@ -3967,7 +3967,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "roadmap.sh"
+                            "text": "road-maps.cn"
                           }
                         },
                         {

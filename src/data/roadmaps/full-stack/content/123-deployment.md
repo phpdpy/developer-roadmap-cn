@@ -11,7 +11,7 @@ Now that you know the basics of AWS, you should be able to deploy your applicati
 - Make sure that the security group of the EC2 instance allows HTTP and HTTPS traffic
 - Try to access your application using the public IP address of the EC2 instance
 - Purchase or setup a domain name using Route53 (or any other domain name provider) and point it to the public IP address of the EC2 instance
-- Setup HTTPs using [certbot](https://roadmap.sh/guides/setup-and-auto-renew-ssl-certificates)
+- Setup HTTPs using [certbot](http://road-maps.cn/guides/setup-and-auto-renew-ssl-certificates)
 - And voilla! You have deployed your application to AWS!
 
 If you get stuck, here is a video that shows how to deploy a Node.js application to AWS EC2: 

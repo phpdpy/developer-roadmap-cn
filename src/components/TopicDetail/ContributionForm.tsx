@@ -73,7 +73,7 @@ function ContributionInput(props: ContributionInputProps) {
         type="url"
         required
         className="block w-full rounded-md border p-2 text-sm focus:border-gray-400 focus:outline-none"
-        placeholder="e.g. https://roadmap.sh/guides/some-url"
+        placeholder="e.g. http://road-maps.cn/guides/some-url"
         onFocus={() => setFocused('link')}
         onBlur={() => setFocused('')}
         onChange={(e) => setLink((e.target as any).value)}

@@ -13,9 +13,9 @@ You don't necessarily need to learn all of these, how to implement and the ins a
 
 Visit the following resources to learn more:
 
-- [Basic Authentication](https://roadmap.sh/guides/basic-authentication)
-- [Session Based Authentication](https://roadmap.sh/guides/session-authentication)
-- [Token Based Authentication](https://roadmap.sh/guides/token-authentication)
-- [JWT Authentication](https://roadmap.sh/guides/jwt-authentication)
-- [OAuth](https://roadmap.sh/guides/oauth)
-- [SSO - Single Sign On](https://roadmap.sh/guides/sso)
+- [Basic Authentication](http://road-maps.cn/guides/basic-authentication)
+- [Session Based Authentication](http://road-maps.cn/guides/session-authentication)
+- [Token Based Authentication](http://road-maps.cn/guides/token-authentication)
+- [JWT Authentication](http://road-maps.cn/guides/jwt-authentication)
+- [OAuth](http://road-maps.cn/guides/oauth)
+- [SSO - Single Sign On](http://road-maps.cn/guides/sso)

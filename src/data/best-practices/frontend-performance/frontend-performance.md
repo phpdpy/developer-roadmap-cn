@@ -14,7 +14,7 @@ dimensions:
 schema:
   headline: 'Frontend Performance Best Practices'
   description: 'Detailed list of best practices to improve the frontend performance of your website. Each best practice carries further details and how to implement that best practice.'
-  imageUrl: 'https://roadmap.sh/best-practices/frontend-performance.png'
+  imageUrl: 'http://road-maps.cn/best-practices/frontend-performance.png'
   datePublished: '2023-01-23'
   dateModified: '2023-01-23'
 seo:

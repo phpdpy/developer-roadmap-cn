@@ -1,12 +1,12 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
-title: Privacy Policy - roadmap.sh
+title: Privacy Policy - road-maps.cn
 noIndex: true
 ---
 
 # Privacy Policy
 
-By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Remember that your use of roadmap.sh’s Services is at all times subject to the [Terms of Use](/terms), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Use.
+By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Remember that your use of road-maps.cn’s Services is at all times subject to the [Terms of Use](/terms), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Use.
 
 ## What does this Privacy Policy cover?
 
@@ -14,11 +14,11 @@ This Privacy Policy covers our treatment of personally identifiable information 
 
 As noted in the Terms of Use, we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at kamranahmed.se@gmail.com.
 
-## Will roadmap.sh ever change this Privacy Policy?
+## Will road-maps.cn ever change this Privacy Policy?
 
 We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by updating the services on the website, placing a notice on the Services, by sending you an email, and/or by some other means. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used or collected.
 
-## What Information does roadmap.sh Collect?
+## What Information does road-maps.cn Collect?
 
 Information You Provide to Us:
 
@@ -32,7 +32,7 @@ Whenever you interact with our Services, we automatically receive and record inf
 
 When we collect the usage information described above, we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data can tell us how often users use a particular feature of the Services, and we can use that knowledge to make the Services interesting to as many users as possible.
 
-## Will roadmap.sh Share Any of the Personal Information it Receives?
+## Will road-maps.cn Share Any of the Personal Information it Receives?
 
 We may share your Personal Information with third parties as described in this section:
 
@@ -42,7 +42,7 @@ Advertisers: We may allow advertisers and/or merchant partners (“Advertisers�
 
 We may deliver a file to you through the Services (known as a “web beacon”) from an ad network. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site. You may be able to opt-out of web beacon tracking by adjusting the settings on your browser.
 
-Affiliated Businesses: In certain situations, businesses or third party websites we’re affiliated with may sell or provide products or services to you through or in connection with the Services (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. One such service may include the ability for you to automatically transmit Third Party Account Information to your Services profile or to automatically transmit information in your Services profile to your third party account; for example, you may sign into your roadmap.sh account using your Twitter account. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies.
+Affiliated Businesses: In certain situations, businesses or third party websites we’re affiliated with may sell or provide products or services to you through or in connection with the Services (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. One such service may include the ability for you to automatically transmit Third Party Account Information to your Services profile or to automatically transmit information in your Services profile to your third party account; for example, you may sign into your road-maps.cn account using your Twitter account. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies.
 
 Our Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.
 
@@ -50,7 +50,7 @@ User Profiles and Submissions: Certain user profile information, including your 
 
 Business Transfers: We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
 
-Protection of roadmap.sh and Others: We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of roadmap.sh, our employees, our users, or others.
+Protection of road-maps.cn and Others: We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of road-maps.cn, our employees, our users, or others.
 
 ## Is Personal Information about me secure?
 

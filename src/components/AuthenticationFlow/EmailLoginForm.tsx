@@ -29,7 +29,7 @@ export function EmailLoginForm() {
       Cookies.set(TOKEN_COOKIE_NAME, response.token, {
         path: '/',
         expires: 30,
-        domain: import.meta.env.DEV ? 'localhost' : '.roadmap.sh',
+        domain: import.meta.env.DEV ? 'localhost' : '.road-maps.cn',
       });
       window.location.reload();
 

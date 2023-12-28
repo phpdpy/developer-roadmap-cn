@@ -11,7 +11,7 @@ class Roadmap {
   }
 
   getRoadmapUrl() {
-    console.log(`https://roadmap.sh/${this.slug}`);
+    console.log(`http://road-maps.cn/${this.slug}`);
   }
 }
 
@@ -31,7 +31,7 @@ const js = new JavaScript(
   'javascript'
 );
 
-js.getRoadmapUrl(); // https://roadmap.sh/javascript
+js.getRoadmapUrl(); // http://road-maps.cn/javascript
 js.greet(); // JavaScript Roadmap - Learn JavaScript
 ```
 

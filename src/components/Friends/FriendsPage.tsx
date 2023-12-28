@@ -85,7 +85,7 @@ export function FriendsPage() {
   const user = useAuth();
   const baseUrl = import.meta.env.DEV
     ? 'http://localhost:3000'
-    : 'https://roadmap.sh';
+    : 'http://road-maps.cn';
   const befriendUrl = `${baseUrl}/befriend?u=${user?.id}`;
 
   const selectedGroupingType = groupingTypes.find(

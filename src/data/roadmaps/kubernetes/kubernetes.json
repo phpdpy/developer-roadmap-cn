@@ -2960,7 +2960,7 @@
           "x": "895",
           "y": "2167",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/backend"
+            "controlName": "ext_link:road-maps.cn/backend"
           },
           "children": {
             "controls": {
@@ -3007,7 +3007,7 @@
           "x": "687",
           "y": "2167",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/devops"
+            "controlName": "ext_link:road-maps.cn/devops"
           },
           "children": {
             "controls": {
@@ -4889,7 +4889,7 @@
                   "x": "27",
                   "y": "72",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/devops"
+                    "controlName": "ext_link:road-maps.cn/devops"
                   },
                   "children": {
                     "controls": {
@@ -4971,7 +4971,7 @@
                   "x": "27",
                   "y": "108",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/system-design"
+                    "controlName": "ext_link:road-maps.cn/system-design"
                   },
                   "children": {
                     "controls": {
@@ -5120,7 +5120,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:road-maps.cn"
                   },
                   "children": {
                     "controls": {
@@ -5151,7 +5151,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "roadmap.sh"
+                            "text": "road-maps.cn"
                           }
                         },
                         {

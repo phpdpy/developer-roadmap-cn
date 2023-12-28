@@ -7,7 +7,7 @@ briefDescription: 'Step by step guide for DevOps or operations role in 2023'
 title: 'DevOps Roadmap'
 description: 'Step by step guide for DevOps, SRE or any other Operations Role in 2023'
 hasTopics: true
-tnsBannerLink: 'https://thenewstack.io?utm_source=roadmap.sh&utm_medium=Referral&utm_campaign=Alert'
+tnsBannerLink: 'https://thenewstack.io?utm_source=road-maps.cn&utm_medium=Referral&utm_campaign=Alert'
 question:
   title: 'What is DevOps?'
   description: |
@@ -23,7 +23,7 @@ dimensions:
 schema:
   headline: 'DevOps Roadmap'
   description: 'Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in our community-driven roadmap.'
-  imageUrl: 'https://roadmap.sh/roadmaps/devops.png'
+  imageUrl: 'http://road-maps.cn/roadmaps/devops.png'
   datePublished: '2023-01-05'
   dateModified: '2023-06-10'
 seo:

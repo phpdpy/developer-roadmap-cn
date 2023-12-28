@@ -7,7 +7,7 @@ import { useEffect, useState } from 'react';
 
 export function TeamPricing() {
   const { isCopied, copyText } = useCopyText();
-  const teamEmail = 'teams@roadmap.sh';
+  const teamEmail = 'teams@road-maps.cn';
 
   const [isAuthenticated, setIsAuthenticated] = useState<boolean>();
 

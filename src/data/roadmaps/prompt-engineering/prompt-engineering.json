@@ -4086,7 +4086,7 @@
                   "x": "16",
                   "y": "82",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:road-maps.cn"
                   },
                   "children": {
                     "controls": {
@@ -4117,7 +4117,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "https://roadmap.sh"
+                            "text": "http://road-maps.cn"
                           }
                         }
                       ]

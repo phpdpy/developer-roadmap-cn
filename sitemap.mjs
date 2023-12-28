@@ -11,28 +11,28 @@ async function getBestPracticesIds() {
 
 export function shouldIndexPage(pageUrl) {
   return ![
-    'https://roadmap.sh/404',
-    'https://roadmap.sh/terms',
-    'https://roadmap.sh/privacy',
-    'https://roadmap.sh/pdfs',
-    'https://roadmap.sh/g',
+    'http://road-maps.cn/404',
+    'http://road-maps.cn/terms',
+    'http://road-maps.cn/privacy',
+    'http://road-maps.cn/pdfs',
+    'http://road-maps.cn/g',
   ].includes(pageUrl);
 }
 
 export async function serializeSitemap(item) {
   const highPriorityPages = [
-    'https://roadmap.sh',
-    'https://roadmap.sh/about',
-    'https://roadmap.sh/roadmaps',
-    'https://roadmap.sh/best-practices',
-    'https://roadmap.sh/guides',
-    'https://roadmap.sh/videos',
+    'http://road-maps.cn',
+    'http://road-maps.cn/about',
+    'http://road-maps.cn/roadmaps',
+    'http://road-maps.cn/best-practices',
+    'http://road-maps.cn/guides',
+    'http://road-maps.cn/videos',
     ...(await getRoadmapIds()).flatMap((id) => [
-      `https://roadmap.sh/${id}`,
-      `https://roadmap.sh/${id}/topics`,
+      `http://road-maps.cn/${id}`,
+      `http://road-maps.cn/${id}/topics`,
     ]),
     ...(await getBestPracticesIds()).map(
-      (id) => `https://roadmap.sh/best-practices/${id}`
+      (id) => `http://road-maps.cn/best-practices/${id}`
     ),
   ];
 
@@ -50,8 +50,8 @@ export async function serializeSitemap(item) {
 
   // Guide and video pages
   if (
-    item.url.startsWith('https://roadmap.sh/guides') ||
-    item.url.startsWith('https://roadmap.sh/videos')
+    item.url.startsWith('http://road-maps.cn/guides') ||
+    item.url.startsWith('http://road-maps.cn/videos')
   ) {
     return {
       ...item,

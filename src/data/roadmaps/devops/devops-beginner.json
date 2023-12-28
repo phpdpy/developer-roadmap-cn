@@ -316,7 +316,7 @@
           "x": "1065",
           "y": "132",
           "properties": {
-            "controlName": "ext_link:roadmap.sh"
+            "controlName": "ext_link:road-maps.cn"
           },
           "children": {
             "controls": {
@@ -360,7 +360,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "roadmap.sh"
+                            "text": "road-maps.cn"
                           }
                         },
                         {

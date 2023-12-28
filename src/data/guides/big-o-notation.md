@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Big-O Notation - roadmap.sh'
+  title: 'Big-O Notation - road-maps.cn'
   description: 'Easy to understand explanation of Big-O notation without any fancy terms'
 isNew: false
 type: 'visual'

@@ -22,4 +22,4 @@ On the other hand, A `<script>` element with an `async` attribute, it will pause
 
 In the example above, the browser will download both scripts in parallel, and execute them as soon as they are downloaded. The order of execution is not guaranteed.
 
-To know more you can check [this diagram](https://roadmap.sh/guides/avoid-render-blocking-javascript-with-async-defer) from us that explains the difference between `defer` and `async` in a visual way.
+To know more you can check [this diagram](http://road-maps.cn/guides/avoid-render-blocking-javascript-with-async-defer) from us that explains the difference between `defer` and `async` in a visual way.

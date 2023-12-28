@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Jump Servers: What, Why and How - roadmap.sh'
+  title: 'Jump Servers: What, Why and How - road-maps.cn'
   description: 'Learn what is a Jump Server and how to set it up for SSH access.'
 isNew: false
 type: 'textual'

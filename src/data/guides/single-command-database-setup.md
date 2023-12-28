@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Single Command Database Setup - roadmap.sh'
+  title: 'Single Command Database Setup - road-maps.cn'
   description: 'Learn how to run MySQL, PostgreSQL, or MongoDB in Docker with single Command'
 isNew: false
 type: 'textual'
@@ -82,4 +82,4 @@ docker exec -it mdb \
   mongo
 ```
 
-Feel free to [submit a pull request](https://github.com/kamranahmedse/roadmap.sh/tree/master/src/data/guides/single-command-database-setup.md) by adding additional databases to this guide.
+Feel free to [submit a pull request](https://github.com/kamranahmedse/road-maps.cn/tree/master/src/data/guides/single-command-database-setup.md) by adding additional databases to this guide.

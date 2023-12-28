@@ -7,7 +7,7 @@ briefDescription: 'Step by step guide to becoming a backend developer in 2023'
 title: 'Backend Developer'
 description: 'Step by step guide to becoming a modern backend developer in 2023'
 hasTopics: true
-tnsBannerLink: 'https://thenewstack.io?utm_source=roadmap.sh&utm_medium=Referral&utm_campaign=Alert'
+tnsBannerLink: 'https://thenewstack.io?utm_source=road-maps.cn&utm_medium=Referral&utm_campaign=Alert'
 question:
   title: 'What is Backend Development?'
   description: |
@@ -21,7 +21,7 @@ dimensions:
 schema:
   headline: 'Backend Developer Roadmap: What is Backend Development?'
   description: 'Learn what backend development is, what backend developers do and how to become one using our community-driven roadmap.'
-  imageUrl: 'https://roadmap.sh/roadmaps/backend.png'
+  imageUrl: 'http://road-maps.cn/roadmaps/backend.png'
   datePublished: '2023-01-05'
   dateModified: '2023-09-16'
 seo:

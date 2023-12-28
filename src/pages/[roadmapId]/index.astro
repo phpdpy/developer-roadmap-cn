@@ -42,7 +42,7 @@ if (roadmapData.schema) {
   const roadmapSchema = roadmapData.schema;
   jsonLdSchema.push(
     generateArticleSchema({
-      url: `https://roadmap.sh/${roadmapId}`,
+      url: `http://road-maps.cn/${roadmapId}`,
       headline: roadmapSchema.headline,
       description: roadmapSchema.description,
       datePublished: roadmapSchema.datePublished,
@@ -62,7 +62,7 @@ if (roadmapFAQs.length) {
   title={roadmapData?.seo?.title}
   briefTitle={roadmapData.briefTitle}
   ogImageUrl={roadmapData?.seo?.ogImageUrl ||
-    'https://roadmap.sh/images/og-img.png'}
+    'http://road-maps.cn/images/og-img.png'}
   description={roadmapData.seo.description}
   keywords={roadmapData.seo.keywords}
   noIndex={roadmapData.isUpcoming}
@@ -95,7 +95,7 @@ if (roadmapFAQs.length) {
         <div class='container relative !max-w-[1000px]'>
           <ShareIcons
             description={roadmapData.briefDescription}
-            pageUrl={`https://roadmap.sh/${roadmapId}`}
+            pageUrl={`http://road-maps.cn/${roadmapId}`}
           />
           <TopicDetail client:idle canSubmitContribution={true} />
 

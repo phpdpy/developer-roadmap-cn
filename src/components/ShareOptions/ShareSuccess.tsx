@@ -22,7 +22,7 @@ export function ShareSuccess(props: ShareSuccessProps) {
 
   const baseUrl = import.meta.env.DEV
     ? 'http://localhost:3000'
-    : 'https://roadmap.sh';
+    : 'http://road-maps.cn';
   const shareLink = `${baseUrl}/r?id=${roadmapId}`;
 
   const { copyText, isCopied } = useCopyText();

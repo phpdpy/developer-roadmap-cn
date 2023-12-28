@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'JWT Authentication - roadmap.sh'
+  title: 'JWT Authentication - road-maps.cn'
   description: 'Understand what is JWT authentication and how is it implemented'
 isNew: false
 type: 'visual'

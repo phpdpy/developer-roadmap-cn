@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'DNS in One Picture - roadmap.sh'
+  title: 'DNS in One Picture - road-maps.cn'
   description: 'Quick illustrative guide on how a website is found on the internet.'
 isNew: false
 type: 'visual'

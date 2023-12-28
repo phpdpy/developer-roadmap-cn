@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Basic Authentication - roadmap.sh'
+  title: 'Basic Authentication - road-maps.cn'
   description: 'Understand what is basic authentication and how it is implemented'
 isNew: false
 type: 'visual'

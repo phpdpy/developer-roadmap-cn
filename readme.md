@@ -1,15 +1,15 @@
 <p align="center">
   <img src="public/images/brand.png" height="128">
-  <h2 align="center"><a href="https://roadmap.sh">roadmap.sh</a></h2>
+  <h2 align="center"><a href="http://road-maps.cn">road-maps.cn</a></h2>
   <p align="center">开发人员学习路线，基于学习路线整理技术学习文章和资源<p>
   <p align="center">
-    <a href="https://roadmap.sh/roadmaps">
+    <a href="http://road-maps.cn/roadmaps">
     	<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
     </a>
-    <a href="https://roadmap.sh/best-practices">
+    <a href="http://road-maps.cn/best-practices">
     	<img src="https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="best practices" />
     </a>
-    <a href="https://roadmap.sh/questions">
+    <a href="http://road-maps.cn/questions">
     	<img src="https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
     </a>
     <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
@@ -24,60 +24,60 @@
 
 Roadmaps are now interactive, you can click the nodes to read more about the topics.
 
-### [View all Roadmaps](https://roadmap.sh) &nbsp;&middot;&nbsp; [Best Practices](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questions](https://roadmap.sh/questions)
+### [View all Roadmaps](http://road-maps.cn) &nbsp;&middot;&nbsp; [Best Practices](http://road-maps.cn/best-practices) &nbsp;&middot;&nbsp; [Questions](http://road-maps.cn/questions)
 
 ![](https://i.imgur.com/waxVImv.png)
 
 Here is the list of available roadmaps with more being actively worked upon.
 
-- [前端 学习路线](https://roadmap.sh/frontend) / [Frontend Beginner 学习路线](https://roadmap.sh/frontend?r=frontend-beginner)
-- [后端 学习路线](https://roadmap.sh/backend)
-- [DevOps 学习路线](https://roadmap.sh/devops) / [DevOps Beginner 学习路线](https://roadmap.sh/devops?r=devops-beginner)
-- [全栈 学习路线](https://roadmap.sh/full-stack)
-- [Computer Science 学习路线](https://roadmap.sh/computer-science)
-- [AI and Data Scientist 学习路线](https://roadmap.sh/ai-data-scientist)
-- [QA 学习路线](https://roadmap.sh/qa)
-- [Python 学习路线](https://roadmap.sh/python)
-- [Software Architect 学习路线](https://roadmap.sh/software-architect)
-- [Software Design and Architecture 学习路线](https://roadmap.sh/software-design-architecture)
-- [JavaScript 学习路线](https://roadmap.sh/javascript)
-- [TypeScript 学习路线](https://roadmap.sh/typescript)
-- [C++ 学习路线](https://roadmap.sh/cpp)
-- [React 学习路线](https://roadmap.sh/react)
-- [React Native 学习路线](https://roadmap.sh/react-native)
-- [Vue 学习路线](https://roadmap.sh/vue)
-- [Angular 学习路线](https://roadmap.sh/angular)
-- [Node.js 学习路线](https://roadmap.sh/nodejs)
-- [GraphQL 学习路线](https://roadmap.sh/graphql)
-- [Android 学习路线](https://roadmap.sh/android)
-- [Flutter 学习路线](https://roadmap.sh/flutter)
-- [Go 学习路线](https://roadmap.sh/golang)
-- [Java 学习路线](https://roadmap.sh/java)
-- [Spring Boot 学习路线](https://roadmap.sh/spring-boot)
-- [Design System 学习路线](https://roadmap.sh/design-system)
-- [PostgreSQL 学习路线](https://roadmap.sh/postgresql-dba)
-- [SQL 学习路线](https://roadmap.sh/sql)
-- [Blockchain 学习路线](https://roadmap.sh/blockchain)
-- [ASP.NET Core 学习路线](https://roadmap.sh/aspnet-core)
-- [System Design 学习路线](https://roadmap.sh/system-design)
-- [Kubernetes 学习路线](https://roadmap.sh/kubernetes)
-- [Cyber Security 学习路线](https://roadmap.sh/cyber-security)
-- [MongoDB 学习路线](https://roadmap.sh/mongodb)
-- [UX Design 学习路线](https://roadmap.sh/ux-design)
-- [Docker 学习路线](https://roadmap.sh/docker)
-- [Prompt Engineering 学习路线](https://roadmap.sh/prompt-engineering)
+- [前端 学习路线](http://road-maps.cn/frontend) / [Frontend Beginner 学习路线](http://road-maps.cn/frontend?r=frontend-beginner)
+- [后端 学习路线](http://road-maps.cn/backend)
+- [DevOps 学习路线](http://road-maps.cn/devops) / [DevOps Beginner 学习路线](http://road-maps.cn/devops?r=devops-beginner)
+- [全栈 学习路线](http://road-maps.cn/full-stack)
+- [Computer Science 学习路线](http://road-maps.cn/computer-science)
+- [AI and Data Scientist 学习路线](http://road-maps.cn/ai-data-scientist)
+- [QA 学习路线](http://road-maps.cn/qa)
+- [Python 学习路线](http://road-maps.cn/python)
+- [Software Architect 学习路线](http://road-maps.cn/software-architect)
+- [Software Design and Architecture 学习路线](http://road-maps.cn/software-design-architecture)
+- [JavaScript 学习路线](http://road-maps.cn/javascript)
+- [TypeScript 学习路线](http://road-maps.cn/typescript)
+- [C++ 学习路线](http://road-maps.cn/cpp)
+- [React 学习路线](http://road-maps.cn/react)
+- [React Native 学习路线](http://road-maps.cn/react-native)
+- [Vue 学习路线](http://road-maps.cn/vue)
+- [Angular 学习路线](http://road-maps.cn/angular)
+- [Node.js 学习路线](http://road-maps.cn/nodejs)
+- [GraphQL 学习路线](http://road-maps.cn/graphql)
+- [Android 学习路线](http://road-maps.cn/android)
+- [Flutter 学习路线](http://road-maps.cn/flutter)
+- [Go 学习路线](http://road-maps.cn/golang)
+- [Java 学习路线](http://road-maps.cn/java)
+- [Spring Boot 学习路线](http://road-maps.cn/spring-boot)
+- [Design System 学习路线](http://road-maps.cn/design-system)
+- [PostgreSQL 学习路线](http://road-maps.cn/postgresql-dba)
+- [SQL 学习路线](http://road-maps.cn/sql)
+- [Blockchain 学习路线](http://road-maps.cn/blockchain)
+- [ASP.NET Core 学习路线](http://road-maps.cn/aspnet-core)
+- [System Design 学习路线](http://road-maps.cn/system-design)
+- [Kubernetes 学习路线](http://road-maps.cn/kubernetes)
+- [Cyber Security 学习路线](http://road-maps.cn/cyber-security)
+- [MongoDB 学习路线](http://road-maps.cn/mongodb)
+- [UX Design 学习路线](http://road-maps.cn/ux-design)
+- [Docker 学习路线](http://road-maps.cn/docker)
+- [Prompt Engineering 学习路线](http://road-maps.cn/prompt-engineering)
 
 There are also interactive best practices:
 
-- [Code Review Best Practices](https://roadmap.sh/best-practices/code-review)
-- [Frontend Performance Best Practices](https://roadmap.sh/best-practices/frontend-performance)
-- [API Security Best Practices](https://roadmap.sh/best-practices/api-security)
-- [AWS Best Practices](https://roadmap.sh/best-practices/aws)
+- [Code Review Best Practices](http://road-maps.cn/best-practices/code-review)
+- [Frontend Performance Best Practices](http://road-maps.cn/best-practices/frontend-performance)
+- [API Security Best Practices](http://road-maps.cn/best-practices/api-security)
+- [AWS Best Practices](http://road-maps.cn/best-practices/aws)
 
 ..and questions to help you test, rate and improve your knowledge
 
-- [JavaScript Questions](https://roadmap.sh/questions/javascript)
-- [React Questions](https://roadmap.sh/questions/react)
+- [JavaScript Questions](http://road-maps.cn/questions/javascript)
+- [React Questions](http://road-maps.cn/questions/react)
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -110,5 +110,3 @@ git clone --depth=1 https://github.com/kamranahmedse/developer-roadmap.git
 ## Thanks to all contributors ❤
 
 ## License
-
-Have a look at the [license file](./license) for details

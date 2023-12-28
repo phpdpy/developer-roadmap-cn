@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Journey to HTTP/2 - roadmap.sh'
+  title: 'Journey to HTTP/2 - road-maps.cn'
   description: 'The evolution of HTTP. How it all started and where we stand today'
 isNew: false
 type: 'textual'

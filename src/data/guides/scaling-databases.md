@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Scaling Databases - roadmap.sh'
+  title: 'Scaling Databases - road-maps.cn'
   description: 'Learn the ups and downs of different database scaling strategies'
 isNew: false
 type: 'visual'

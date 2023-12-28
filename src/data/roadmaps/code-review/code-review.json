@@ -584,7 +584,7 @@
                   "x": "82",
                   "y": "0",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/best-practices/code-review"
+                    "controlName": "ext_link:road-maps.cn/best-practices/code-review"
                   },
                   "children": {
                     "controls": {
@@ -618,7 +618,7 @@
                   "x": "532",
                   "y": "0",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/code-review"
+                    "controlName": "ext_link:road-maps.cn/code-review"
                   },
                   "children": {
                     "controls": {
@@ -634,7 +634,7 @@
                           "properties": {
                             "color": "10027263",
                             "size": "18",
-                            "text": "roadmap.sh/code-review"
+                            "text": "road-maps.cn/code-review"
                           }
                         }
                       ]

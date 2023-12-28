@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Brief History of JavaScript - roadmap.sh'
+  title: 'Brief History of JavaScript - road-maps.cn'
   description: 'How JavaScript was introduced and evolved over the years'
 isNew: false
 type: 'textual'

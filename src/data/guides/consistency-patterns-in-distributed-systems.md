@@ -6,7 +6,7 @@ author:
   url: 'https://twitter.com/kamrify'
   imageUrl: '/authors/kamranahmedse.jpeg'
 seo:
-  title: 'Consistency Patterns - roadmap.sh'
+  title: 'Consistency Patterns - road-maps.cn'
   description: 'Everything you need to know about Week, Strong and Eventual Consistency'
 isNew: false
 canonicalUrl: 'https://cs.fyi/guide/consistency-patterns-week-strong-eventual/'

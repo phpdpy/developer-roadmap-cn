@@ -11642,7 +11642,7 @@
                   "x": "23",
                   "y": "62",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/mongodb"
+                    "controlName": "ext_link:road-maps.cn/mongodb"
                   },
                   "children": {
                     "controls": {
@@ -11720,7 +11720,7 @@
                   "x": "23",
                   "y": "95",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/backend"
+                    "controlName": "ext_link:road-maps.cn/backend"
                   },
                   "children": {
                     "controls": {
@@ -11949,7 +11949,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:road-maps.cn"
                   },
                   "children": {
                     "controls": {
@@ -11980,7 +11980,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "https://roadmap.sh"
+                            "text": "http://road-maps.cn"
                           }
                         }
                       ]

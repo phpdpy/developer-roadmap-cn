@@ -13,7 +13,7 @@
           "x": "704",
           "y": "314",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/frontend"
+            "controlName": "ext_link:road-maps.cn/frontend"
           },
           "children": {
             "controls": {
@@ -85,7 +85,7 @@
                   "x": "18",
                   "y": "52",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:road-maps.cn"
                   },
                   "children": {
                     "controls": {
@@ -100,7 +100,7 @@
                           "x": "0",
                           "y": "0",
                           "properties": {
-                            "text": "https://roadmap.sh",
+                            "text": "http://road-maps.cn",
                             "color": "10027263",
                             "size": "20"
                           }
@@ -10577,7 +10577,7 @@
           "x": "409",
           "y": "2785",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/best-practices/frontend-performance"
+            "controlName": "ext_link:road-maps.cn/best-practices/frontend-performance"
           },
           "children": {
             "controls": {
@@ -12559,7 +12559,7 @@
           "x": "873",
           "y": "3318",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/nodejs"
+            "controlName": "ext_link:road-maps.cn/nodejs"
           },
           "children": {
             "controls": {
@@ -12606,7 +12606,7 @@
           "x": "665",
           "y": "3318",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/typescript"
+            "controlName": "ext_link:road-maps.cn/typescript"
           },
           "children": {
             "controls": {

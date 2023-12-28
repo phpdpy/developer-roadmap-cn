@@ -2908,7 +2908,7 @@
           "x": "531",
           "y": "1817",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/frontend"
+            "controlName": "ext_link:road-maps.cn/frontend"
           },
           "children": {
             "controls": {
@@ -2946,7 +2946,7 @@
                   "x": "205",
                   "y": "58",
                   "properties": {
-                    "text": "roadmap.sh/frontend",
+                    "text": "road-maps.cn/frontend",
                     "size": "18",
                     "color": "10027263"
                   }
@@ -5177,7 +5177,7 @@
           "x": "537",
           "y": "124",
           "properties": {
-            "controlName": "ext_link:roadmap.sh/javascript"
+            "controlName": "ext_link:road-maps.cn/javascript"
           },
           "children": {
             "controls": {
@@ -5250,7 +5250,7 @@
                   "x": "23",
                   "y": "62",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/react"
+                    "controlName": "ext_link:road-maps.cn/react"
                   },
                   "children": {
                     "controls": {
@@ -5328,7 +5328,7 @@
                   "x": "23",
                   "y": "95",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/angular"
+                    "controlName": "ext_link:road-maps.cn/angular"
                   },
                   "children": {
                     "controls": {
@@ -5447,7 +5447,7 @@
                   "x": "15",
                   "y": "81",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:road-maps.cn"
                   },
                   "children": {
                     "controls": {
@@ -5478,7 +5478,7 @@
                           "properties": {
                             "color": "16777215",
                             "size": "20",
-                            "text": "roadmap.sh"
+                            "text": "road-maps.cn"
                           }
                         },
                         {

@@ -30,10 +30,10 @@ export function generateArticleSchema(article: ArticleSchemaProps) {
     },
     publisher: {
       '@type': 'Organization',
-      name: 'roadmap.sh',
+      name: 'road-maps.cn',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://roadmap.sh/images/brand-square.png',
+        url: 'http://road-maps.cn/images/brand-square.png',
       },
     },
     datePublished: datePublished,
