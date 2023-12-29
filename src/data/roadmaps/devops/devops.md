@@ -3,9 +3,9 @@ jsonUrl: '/jsons/roadmaps/devops.json'
 pdfUrl: '/pdfs/roadmaps/devops.pdf'
 order: 3
 briefTitle: 'DevOps'
-briefDescription: 'Step by step guide for DevOps or operations role in 2023'
+briefDescription: '一步一步的学习 DevOps or operations role in 2024'
 title: 'DevOps Roadmap'
-description: 'Step by step guide for DevOps, SRE or any other Operations Role in 2023'
+description: '一步一步的学习 DevOps, SRE or any other Operations Role in 2024'
 hasTopics: true
 tnsBannerLink: 'https://thenewstack.io?utm_source=road-maps.cn&utm_medium=Referral&utm_campaign=Alert'
 question:
@@ -51,12 +51,7 @@ seo:
 relatedRoadmaps:
   - 'backend'
   - 'docker'
-  - 'kubernetes'
   - 'python'
-  - 'java'
-  - 'golang'
-  - 'javascript'
-  - 'nodejs'
 sitemap:
   priority: 1
   changefreq: 'monthly'

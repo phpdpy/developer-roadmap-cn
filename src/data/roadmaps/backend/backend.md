@@ -3,9 +3,9 @@ jsonUrl: '/jsons/roadmaps/backend.json'
 pdfUrl: '/pdfs/roadmaps/backend.pdf'
 order: 2
 briefTitle: 'Backend'
-briefDescription: 'Step by step guide to becoming a backend developer in 2023'
+briefDescription: '一步一步的成为一名 backend developer in 2024'
 title: 'Backend Developer'
-description: 'Step by step guide to becoming a modern backend developer in 2023'
+description: '一步一步的成为一名 modern backend developer in 2024'
 hasTopics: true
 tnsBannerLink: 'https://thenewstack.io?utm_source=road-maps.cn&utm_medium=Referral&utm_campaign=Alert'
 question:
@@ -55,14 +55,8 @@ seo:
 relatedRoadmaps:
   - 'docker'
   - 'full-stack'
-  - 'system-design'
   - 'python'
-  - 'java'
-  - 'golang'
   - 'devops'
-  - 'javascript'
-  - 'nodejs'
-  - 'postgresql-dba'
 sitemap:
   priority: 1
   changefreq: 'monthly'

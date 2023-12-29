@@ -3,9 +3,9 @@ jsonUrl: '/jsons/roadmaps/blockchain.json'
 pdfUrl: '/pdfs/roadmaps/blockchain.pdf'
 order: 6
 briefTitle: 'Blockchain'
-briefDescription: 'Step by step guide to becoming a blockchain developer in 2023'
+briefDescription: '一步一步的成为一名 blockchain developer in 2024'
 title: 'Blockchain Developer'
-description: 'Step by step guide to becoming a blockchain developer in 2023.'
+description: '一步一步的成为一名 blockchain developer in 2024.'
 isNew: false
 hasTopics: true
 dimensions:
@@ -13,7 +13,7 @@ dimensions:
   height: 2173.87
 schema:
   headline: 'Blockchain Developer Roadmap'
-  description: 'Learn how to become a Blockchain Developer with this interactive step by step guide in 2023. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
+  description: 'Learn how to become a Blockchain Developer with this interactive step by step guide in 2024. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
   imageUrl: 'http://road-maps.cn/roadmaps/blockchain.png'
   datePublished: '2023-01-05'
   dateModified: '2023-01-20'

@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center"><a href="http://road-maps.cn">road-maps.cn</a></h2>
-  <p align="center">开发人员学习路线，基于学习路线整理技术学习文章和资源<p>
+  <p align="center">中文版开发人员学习路线，基于学习路线整理技术学习文章和资源<p>
 </p>
 
 <br>

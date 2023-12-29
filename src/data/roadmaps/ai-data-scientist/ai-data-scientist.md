@@ -3,9 +3,9 @@ jsonUrl: '/jsons/roadmaps/ai-data-scientist.json'
 pdfUrl: '/pdfs/roadmaps/ai-data-scientist.pdf'
 order: 6
 briefTitle: 'AI and Data Scientist'
-briefDescription: 'Step by step guide to becoming an AI and Data Scientist in 2023'
+briefDescription: '一步一步的成为一名 AI and Data Scientist in 2024'
 title: 'AI and Data Scientist Roadmap'
-description: 'Step by step guide to becoming an AI and Data Scientist in 2023'
+description: '一步一步的成为一名 AI and Data Scientist in 2024'
 hasTopics: true
 isNew: true
 dimensions:
@@ -13,7 +13,7 @@ dimensions:
   height: 2243.96
 schema:
   headline: 'AI and Data Scientist Roadmap'
-  description: 'Learn how to become an AI and Data Scientist with this interactive step by step guide in 2023. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
+  description: 'Learn how to become an AI and Data Scientist with this interactive step by step guide in 2024. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
   imageUrl: 'http://road-maps.cn/roadmaps/ai-data-scientist.png'
   datePublished: '2023-08-17'
   dateModified: '2023-08-17'

@@ -3,9 +3,9 @@ jsonUrl: '/jsons/roadmaps/frontend.json'
 pdfUrl: '/pdfs/roadmaps/frontend.pdf'
 order: 1
 briefTitle: 'Frontend'
-briefDescription: 'Step by step guide to becoming a frontend developer in 2023'
+briefDescription: '一步一步的成为一名 frontend developer in 2024'
 title: 'Frontend Developer'
-description: 'Step by step guide to becoming a modern frontend developer in 2023'
+description: '一步一步的成为一名 modern frontend developer in 2024'
 hasTopics: true
 tnsBannerLink: 'https://thenewstack.io?utm_source=road-maps.cn&utm_medium=Referral&utm_campaign=Alert'
 question:
